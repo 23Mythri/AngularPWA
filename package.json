@@ -17,14 +17,16 @@
     "@angular/forms": "~13.2.0",
     "@angular/platform-browser": "~13.2.0",
     "@angular/platform-browser-dynamic": "~13.2.0",
+    "@angular/pwa": "^14.2.13",
     "@angular/router": "~13.2.0",
+    "@angular/service-worker": "~13.2.0",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~13.2.4",
-    "@angular/cli": "~13.2.4",
+    "@angular/cli": "^14.2.13",
     "@angular/compiler-cli": "~13.2.0",
     "@types/jasmine": "~3.10.0",
     "@types/node": "^12.11.1",
